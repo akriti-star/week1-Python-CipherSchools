@@ -1,0 +1,11 @@
+a=23
+char_b=chr(a)
+print(a)
+x=123
+b=str(x)
+print(b)
+e=float("80.6")
+i=str(e)
+print(i)
+w=90
+isinstance(w,object)
